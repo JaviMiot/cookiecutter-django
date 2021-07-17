@@ -5,7 +5,7 @@
   "project_name": "Django Project",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
   "project_short_description": "Django rest framework, postgrest, celery, redis.",
-  "time_zone": "America/Ecuador",
+  "time_zone": "America/Guayaquil",
   "language_code": "es-MX",
   "pypi_username": "{{ cookiecutter.github_username }}",
   "version": "0.1.0",
